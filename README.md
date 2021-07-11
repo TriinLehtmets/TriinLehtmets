@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Courses](https://github.com/TriinLehtmets/courses)
+[Courses](https://github.com/TriinLehtmets/TriinLehtmets/tree/main/courses)
 <!--
 **TriinLehtmets/TriinLehtmets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
