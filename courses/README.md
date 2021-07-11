@@ -1,16 +1,16 @@
 ### Courses
 
-Date | Course | Uni | Certificate
+Date | Course | Uni | File
 --- | --- | --- | ---
 2021-01-05 | [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) | Yale University | [Certificate](https://www.coursera.org/account/accomplishments/verify/HWQRQER3KWSU)
 2020-12-07 | [How to Manage a Remote Team](https://www.coursera.org/learn/remote-team-management) | GitLab | [Certificate](https://www.coursera.org/account/accomplishments/verify/VQ9DPWL2X4YS)
-2020-06-28 | [Psühholoogia alused](https://www.psychology.ut.ee/et/uudised/alustab-tasuta-e-kursus-psuhholoogia-alustest) | Tartu Ülikool | [Certificate]()
+2020-06-28 | [Psühholoogia alused](https://www.psychology.ut.ee/et/uudised/alustab-tasuta-e-kursus-psuhholoogia-alustest) | Tartu Ülikool | [Certificate](https://github.com/TriinLehtmets/TriinLehtmets/blob/main/courses/certificates/Psyhholoogia_alused.pdf)
 2017-03-08 | [Photography Capstone Project](https://www.coursera.org/learn/photography-project) | Michigan State University | [Certificate](https://www.coursera.org/account/accomplishments/verify/A2C89QB8Q885)
 2016-12-10 | [Photography Techniques: Light, Content, and Sharing](https://www.coursera.org/learn/photography-techniques) | Michigan State University | [Certificate](https://www.coursera.org/account/accomplishments/verify/ZC979L55XJ2Y)
 2016-11-08 | [Principles of Photo Composition and Digital Image Post-Production](https://www.coursera.org/learn/photo-composition) | Michigan State University | [Certificate](https://www.coursera.org/account/accomplishments/verify/EKEBTKVMMQJE)
 2016-10-01 | [Camera Control](https://www.coursera.org/learn/camera-control) | Michigan State University | [Certificate](https://www.coursera.org/account/accomplishments/verify/R7Y5TJMKJTMP)
 2016-09-02 | [Cameras, Exposure, and Photography](https://www.coursera.org/learn/exposure-photography) | Michigan State University | [Certificate](https://www.coursera.org/account/accomplishments/verify/449JFGL28ATU)
-2016-03-31 | [Dokumendi- ja arhiivihaldus infoajastul](https://www.ra.ee/dokumendi-ja-arhiivihaldus-infoajastul/) | Tartu Ülikool | [Certificate]()
+2016-03-31 | [Dokumendi- ja arhiivihaldus infoajastul](https://www.ra.ee/dokumendi-ja-arhiivihaldus-infoajastul/) | Tartu Ülikool | [Certificate](https://github.com/TriinLehtmets/TriinLehtmets/blob/main/courses/certificates/Dokumendi_ja_arhiivihaldus_infoajastul.pdf)
 2015-08-07 | [AIDS: Fear and Hope](https://www.coursera.org/learn/aids-fear-hope) | University of Michigan | [Statement](https://github.com/TriinLehtmets/TriinLehtmets/blob/main/courses/certificates/AIDS-Fear-and-Hope.pdf)
 2015-07-17 | [Emotions: a Philosophical Introduction](https://www.coursera.org/learn/emotions) | Universitat Autònoma de Barcelona | [Statement](https://github.com/TriinLehtmets/TriinLehtmets/blob/main/courses/certificates/Emotions-a-Philosophical-Introduction.pdf)
 2014-09-03 | Programming for Everybody (Python) | University of Michigan | [Statement](https://github.com/TriinLehtmets/TriinLehtmets/blob/main/courses/certificates/Programming-for-Everybody-(Python).pdf)
